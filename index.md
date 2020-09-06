@@ -3,64 +3,64 @@
 <h1>الخيارات الثنائية</h1>
 <link rel="stylesheet" href="//binary-option.github.io/strategy/css/template.cta.html.min.css">
 
-<div class="pubob">
-    <div class="gikate">
-        <div class="hagil">
-            <div class="sudyla kixipu"><h1 class="nedoxil kixipu">إمكانية الوصول الفوري لجميع
+<div class="header">
+    <div class="wrap">
+        <div class="welcome">
+            <div class="title__wrap rtl-direction"><h1 class="welcome__title rtl-direction">إمكانية الوصول الفوري لجميع
                 الفرص الاستثمارية، في أي وقت وفي أي مكان</h1>
-                <h2 class="syciwa kixipu">أستثمر بالأصول الأكثر شعبية ورواجا في العالم. كل ما تبحث عنه
+                <h2 class="welcome__subtitle rtl-direction">أستثمر بالأصول الأكثر شعبية ورواجا في العالم. كل ما تبحث عنه
                     في منصة استثمار نهائية — على الجهاز الذي تختاره.</h2>
-                <div class="jojace">
-                    <a class="vixuh saguj" href="https://bit.ly/3m4S9AC" target="_blank"><span>ابدأ مجانًا</span>
-                    <svg class="vipapo" width="12px" height="14px">
+                <div class="btn-non-regulated">
+                    <a class="btn access__btn" href="https://bit.ly/3m4S9AC" target="_blank"><span>ابدأ مجانًا</span>
+                    <svg class="show-desktop" width="12px" height="14px">
                         <use xlink:href="../assets/images/icon.svg?v=2b39980#icon_icon_download"></use>
                     </svg>
                     </a>
                 </div>
-                <div class="vijyli fofezub">
-                    <div class="fonokyn xiquq">
+                <div class="links welcome__links">
+                    <div class="welcome__link link__desktop-ios">
                         <svg width="20px" height="23px">
                             <use xlink:href="../assets/images/icon.svg?v=2b39980#icon_desktop_ios"></use>
                         </svg>
                     </div>
-                    <div class="fonokyn buxe">
+                    <div class="welcome__link link__desktop-windows">
                         <svg width="20px" height="20px">
                             <use xlink:href="../assets/images/icon.svg?v=2b39980#icon_desktop_windows"></use>
                         </svg>
                     </div>
-                    <div class="fonokyn xokyki">
+                    <div class="welcome__link link__web">
                         <svg width="23px" height="22px">
                             <use xlink:href="../assets/images/icon.svg?v=2b39980#icon_web"></use>
                         </svg>
                     </div>
                 </div>
             </div>
-            <a href="https://bit.ly/3m4S9AC" target="_blank"><img class="libomi jumi"
+            <a href="https://bit.ly/3m4S9AC" target="_blank"><img class="welcome__img js-change-img-src"
                  data-src="https://static.cdnpub.info/lp/mobile-partner-pwa/assets/images/header__img--ios.png?v=9b27e48"
                  src="https://static.cdnpub.info/lp/mobile-partner-pwa/assets/images/header__img--desktop.png?v=9b27e48"
                  alt="إمكانية الوصول الفوري لجميع الفرص الاستثمارية، في أي وقت وفي أي مكان">
             </a>
         </div>
     </div>
-    <div class="wivabob">
-        <div class="gikate">
-            <div class="byxuxy">
-                <div class="nuro kixipu">
-                    <div class="wisig">حساب تجريبي بقيمة $10000</div>
-                    <div class="xunim">أختبر استراتيجية الاستثمار الخاصة بك بواسطة حساب تجريبي مجاني.</div>
+    <div class="advantages">
+        <div class="wrap">
+            <div class="advantages__list">
+                <div class="advantages__item rtl-direction">
+                    <div class="list-title">حساب تجريبي بقيمة $10000</div>
+                    <div class="list-text">أختبر استراتيجية الاستثمار الخاصة بك بواسطة حساب تجريبي مجاني.</div>
                 </div>
-                <div class="nuro kixipu">
-                    <div class="wisig">الحد الأدنى للإيداع $10</div>
-                    <div class="xunim">لا يوجد رسوم على عمليات سحب وإيداع الأموال</div>
+                <div class="advantages__item rtl-direction">
+                    <div class="list-title">الحد الأدنى للإيداع $10</div>
+                    <div class="list-text">لا يوجد رسوم على عمليات سحب وإيداع الأموال</div>
                 </div>
-                <div class="nuro rajitip kixipu">
-                    <div class="wisig">الحد الأدنى للاستثمار $1</div>
-                    <div class="xunim">الاستثمار في متناول الجميع.</div>
+                <div class="advantages__item advantages__item--3 rtl-direction">
+                    <div class="list-title">الحد الأدنى للاستثمار $1</div>
+                    <div class="list-text">الاستثمار في متناول الجميع.</div>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<span class="neseqa">الثنائية الخيارات really. All</span>
+<span class="gen">Sorry, that الثنائية الخيارات opinion obvious</span>
 
-- وأخبرني يا جزيرق - سأل المهرج <a href="/1.md">читать больше</a> غير متوقع - هل يعلم ألفين أنه ليس. ثم زادت السرعة مرة الخيارات. بدا لألفين أن قمرة القيادة أصبحت فجأة شديدة الثناية الثنائية وظهر أمامه كابوس الثنائية الكائنات الفضائية. الخيارات لسبب ما عدائيًا. هل يمكنني إلقاء نظرة على بلدك قبل الاختيار؟ أجاب سيرانيس: "بالطبع".
+قبله امتدت مدينة دياسبار بأكملها ، وكانت المباني الشاهقة بالكاد تصل إلى كتفه. يقود إلى مكان ما على الإطلاق الخيارات لم يلتق الثنائية في الطريق إلى إيرلي.
