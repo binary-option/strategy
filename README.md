@@ -1,2 +1,2 @@
 # strategy
-:::collecting material binari option
+-collecting material binari option
